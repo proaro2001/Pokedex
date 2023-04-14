@@ -1,0 +1,20 @@
+size
+max_size
+empty
+print
+
+insert Pikachu
+size
+empty
+print
+
+insert Bulbasaur
+size
+front
+back
+print
+
+erase 0
+front
+back
+print

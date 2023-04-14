@@ -1,0 +1,7 @@
+insert Charmander
+insert Pikachu
+insert Bulbasaur
+print
+erase 1
+print
+

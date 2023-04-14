@@ -1,0 +1,25 @@
+insert Dummy
+pop_back
+print
+garbage_command
+pop_back
+front
+back
+erase 0
+erase 3
+at 0
+at 5
+insert A0
+insert A1
+insert A2
+insert A3
+insert A4
+insert A5
+insert A6
+insert A7
+insert A8
+insert A9
+insert A10
+print
+
+
